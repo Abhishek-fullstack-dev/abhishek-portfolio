@@ -18,7 +18,7 @@ export const skillCategories = [
       { name: "Saga Pattern",    icon: null },
       { name: "Circuit Breaker", icon: null },
       { name: "API Gateway",     icon: null },
-      { name: "Netflix Eureka",  icon: null },
+      
     ],
   },
   {
