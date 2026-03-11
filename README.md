@@ -1,58 +1,62 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# React + Vite
-=======
-# Abhishek Kumar — Developer Portfolio
->>>>>>> e2b00fc23a53dcb51047aec032632d59ab70dc82
+# 🧑‍💻 Abhishek Kumar — Developer Portfolio
 
-Personal portfolio website built with React.js and Tailwind CSS.  
-Live at: [abhishek-portfolio.vercel.app](https://abhishek-portfolio.vercel.app)
+<div align="center">
 
----
+[![Live Demo](https://img.shields.io/badge/🌐_Live-abhishekkumar--dev.vercel.app-00C853?style=for-the-badge)](https://abhishekkumar-dev.vercel.app)
+[![React](https://img.shields.io/badge/React.js-Vite-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
+[![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com)
+[![Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?style=for-the-badge&logo=vercel)](https://vercel.com)
 
-## Tech Stack
+*Personal portfolio of a Java Backend Engineer — showcasing live projects, skills, and experience.*
 
-- **React.js** — component-based UI
-- **Tailwind CSS** — utility-first styling
-- **Framer Motion** — scroll and hover animations
-- **Vite** — build tool
-- **Vercel** — deployment
+</div>
 
 ---
 
-## Sections
+## 📸 Preview
 
-<<<<<<< HEAD
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# abhishek-portfolio
-Personal portfolio — Java Backend Engineer. Built with React.js, Tailwind CSS &amp; Framer Motion. Live on Vercel.
->>>>>>> f953fc786e9248a24275b612865652a90b9bc341
-=======
-- **Hero** — introduction with animated entrance
-- **About** — bio, education, and key facts
-- **Projects** — MediBridge, Event-Order System, QuizCraft AI
-- **Skills** — full tech stack with icons
-- **Contact** — email, LinkedIn, GitHub links
+![Portfolio Preview](portfolio-preview.png)
 
 ---
 
-## Projects Featured
+## ✨ Sections
 
-**MediBridge** — 5-microservice healthcare platform  
-Java · Spring Boot · Kafka · JWT · React.js · Docker  
-[GitHub](https://github.com/Abhishek-fullstack-dev/medibridge-fullstack-microservices)
-
-**Event-Order System** — distributed order processing with Saga pattern  
-Java · Spring Boot · Kafka · AWS EC2 · Docker · GitHub Actions  
-[GitHub](https://github.com/Abhishek-fullstack-dev/event-order-system)
-
-**QuizCraft AI** — AI-powered quiz SaaS *(in progress)*  
-Java · Spring Boot · OpenAI API · React.js · PostgreSQL · AWS
+- **Hero** — Animated entrance with name, title, and CTA buttons
+- **About** — Bio, education (B.Tech CS), location, and open to work status
+- **Projects** — MediBridge, Event-Order System, QuizCraft AI with live links
+- **Skills** — Full tech stack with icons (Java, Spring Boot, Kafka, AWS, Docker...)
+- **Contact** — Email, LinkedIn, GitHub
 
 ---
 
-## Run Locally
+## 🚀 Projects Featured
+
+**MediBridge** — Healthcare Microservices Platform
+`Java · Spring Boot · Kafka · JWT · MySQL · Docker · AWS EC2`
+[GitHub →](https://github.com/Abhishek-fullstack-dev/medibridge-fullstack-microservices)
+
+**Event-Order System** — Distributed Order Processing
+`Java · Spring Boot · Kafka · AWS EC2 · Docker · GitHub Actions`
+[GitHub →](https://github.com/Abhishek-fullstack-dev/event-order-system)
+
+**QuizCraft AI** — Live AI-Powered Quiz SaaS
+`Java · Spring Boot · OpenAI API · PostgreSQL · AWS EC2 · React.js`
+[GitHub →](https://github.com/Abhishek-fullstack-dev/quizcraft-ai) · [Live →](https://quizcraft.live)
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|---|---|
+| **UI** | React.js, Vite, Tailwind CSS |
+| **Animations** | Framer Motion |
+| **Deployment** | Vercel |
+
+---
+
+## ⚙️ Run Locally
+
 ```bash
 git clone https://github.com/Abhishek-fullstack-dev/abhishek-portfolio.git
 cd abhishek-portfolio
@@ -62,23 +66,12 @@ npm run dev
 
 ---
 
-## Contact
+## 👤 Contact
 
-- Email: parvatiabhu620@gmail.com  
-- LinkedIn: [in/abhishek-kumar-380446233](https://linkedin.com/in/abhishek-kumar-380446233)  
-- GitHub: [Abhishek-fullstack-dev](https://github.com/Abhishek-fullstack-dev)
-```
+- 📧 parvatiabhu620@gmail.com
+- 💼 [linkedin.com/in/abhishek-kumar-380446233](https://linkedin.com/in/abhishek-kumar-380446233)
+- 🐙 [github.com/Abhishek-fullstack-dev](https://github.com/Abhishek-fullstack-dev)
 
 ---
 
-## GitHub repo description (one line — goes in the repo About section)
-```
-Personal portfolio — Java Backend Engineer. Built with React.js, Tailwind CSS & Framer Motion. Live on Vercel.
-```
-
-Paste that in GitHub → your repo → click the gear icon next to "About" on the right side → Description.
-
-Also add these topics to the repo:
-```
-react tailwindcss framer-motion portfolio vite java spring-boot
->>>>>>> e2b00fc23a53dcb51047aec032632d59ab70dc82
+<div align="center"><i>Java Backend Engineer — building scalable systems and shipping real products.</i></div>
