@@ -1,55 +1,85 @@
-# 🧑‍💻 Abhishek Kumar — Developer Portfolio
+# 🧑‍💻 Abhishek Kumar — Java Backend Engineer Portfolio
 
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live-abhishekkumar--dev.vercel.app-00C853?style=for-the-badge)](https://abhishekkumar-dev.vercel.app)
 [![React](https://img.shields.io/badge/React.js-Vite-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 [![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com)
+[![Framer](https://img.shields.io/badge/Framer-Motion-0055FF?style=for-the-badge&logo=framer)](https://www.framer.com/motion)
 [![Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?style=for-the-badge&logo=vercel)](https://vercel.com)
 
-*Personal portfolio of a Java Backend Engineer — showcasing live projects, skills, and experience.*
+*Personal portfolio of a Java Backend Engineer — showcasing live projects, architecture decisions, and production experience.*
 
 </div>
 
 ---
 
-## 📸 Preview
+## 📸 Screenshots
 
-![Portfolio Preview](portfolio-preview.png)
+<table>
+  <tr>
+    <td><img src="p-hero.png" alt="Hero" width="100%"/></td>
+    <td><img src="p-about.png" alt="About" width="100%"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Hero — Available for Work · Bengaluru</b></td>
+    <td align="center"><b>About — Who I Am</b></td>
+  </tr>
+  <tr>
+    <td><img src="p-projects.png" alt="Projects" width="100%"/></td>
+    <td><img src="p-quizcraft.png" alt="QuizCraft" width="100%"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Projects Section</b></td>
+    <td align="center"><b>QuizCraft AI — Live SaaS</b></td>
+  </tr>
+  <tr>
+    <td><img src="p-skills.png" alt="Skills" width="100%"/></td>
+    <td><img src="p-contact.png" alt="Contact" width="100%"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Skills — Technologies in Production</b></td>
+    <td align="center"><b>Contact — Let's Build Together</b></td>
+  </tr>
+</table>
+
+<img src="p-footer.png" alt="Footer" width="100%"/>
+<p align="center"><b>Footer — © 2026 · Java Backend Engineer · Open to Work</b></p>
 
 ---
 
 ## ✨ Sections
 
-- **Hero** — Animated entrance with name, title, and CTA buttons
-- **About** — Bio, education (B.Tech CS), location, and open to work status
-- **Projects** — MediBridge, Event-Order System, QuizCraft AI with live links
-- **Skills** — Full tech stack with icons (Java, Spring Boot, Kafka, AWS, Docker...)
-- **Contact** — Email, LinkedIn, GitHub
+- **Hero** — Animated entrance, Available for Work badge, Hire Me CTA
+- **About** — Bio, B.Tech CS (LNCT 2025), Bengaluru, 2+ live projects, Open to Work
+- **Projects** — MediBridge, Event-Order System, QuizCraft AI with tech tags and live links
+- **Skills** — Backend, Architecture, Cloud/DevOps, Database, Frontend & Tools
+- **Contact** — Email, LinkedIn, GitHub with "Send me an email" CTA
 
 ---
 
 ## 🚀 Projects Featured
 
-**MediBridge** — Healthcare Microservices Platform
-`Java · Spring Boot · Kafka · JWT · MySQL · Docker · AWS EC2`
+**01 · MediBridge** — Healthcare Microservices Platform
+`Java · Spring Boot · Apache Kafka · JWT · Spring Security · React.js · MySQL · API Gateway · Eureka · Docker`
 [GitHub →](https://github.com/Abhishek-fullstack-dev/medibridge-fullstack-microservices)
 
-**Event-Order System** — Distributed Order Processing
-`Java · Spring Boot · Kafka · AWS EC2 · Docker · GitHub Actions`
+**02 · Event-Order System** — Distributed Order Processing
+`Java · Spring Boot · Apache Kafka · AWS EC2 · Docker · GitHub Actions`
 [GitHub →](https://github.com/Abhishek-fullstack-dev/event-order-system)
 
-**QuizCraft AI** — Live AI-Powered Quiz SaaS
-`Java · Spring Boot · OpenAI API · PostgreSQL · AWS EC2 · React.js`
+**03 · QuizCraft AI** — Live AI-Powered Quiz SaaS
+`Java · Spring Boot · OpenAI API · React.js · PostgreSQL · AWS EC2 · Docker · JWT`
 [GitHub →](https://github.com/Abhishek-fullstack-dev/quizcraft-ai) · [Live →](https://quizcraft.live)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Built With
 
 | Layer | Technology |
 |---|---|
-| **UI** | React.js, Vite, Tailwind CSS |
+| **UI** | React.js, Vite |
+| **Styling** | Tailwind CSS |
 | **Animations** | Framer Motion |
 | **Deployment** | Vercel |
 
@@ -74,4 +104,4 @@ npm run dev
 
 ---
 
-<div align="center"><i>Java Backend Engineer — building scalable systems and shipping real products.</i></div>
+<div align="center"><i>© 2026 · Java Backend Engineer · Open to Work · Built with React + Tailwind</i></div>
